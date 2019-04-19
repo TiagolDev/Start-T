@@ -9,7 +9,7 @@
     <!-- Estilos em linhas: -->
     <h1 style="color: pink; font-size: 4rem; font-family: Verdana">Hello World!!! 
    Caminhada iniciada com sucesso!
-Saindo do piloto automátivo e entrando numa área ampla. 
-Onde a concorrêcia é enorme e o mercado de trabalho é maior ainda. Boa sorte pra nós!</h1>
+Saindo do piloto automático.
+   Boa sorte pra nós!</h1>
 </body>          
 </html>
