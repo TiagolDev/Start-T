@@ -7,8 +7,8 @@
 </head>
 <body>
     <!-- Estilos em linhas: -->
-    <h1 style="color: pink; font-size: 4rem; font-family: Verdana">Hello World!!! 
+    <h1 style="color: pink; font-size: 4rem; font-family: Verdana"> Hello World!!! 
 
-Leaving autopilot</h1>
+Leaving autopilot!</h1>
 </body>          
 </html>
