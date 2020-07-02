@@ -6,13 +6,13 @@
 ##### Iniciante e com fome!
 
 - Fé
-- Javascript
+    - Javascript
 - Família
-- Node.js
+    - Node.js
 - Resiliência
-- Linux
+    - Linux
 - Futebol
-- Node.js 
+    - Node.js 
 - Respeito
-- C#
+    - C#
 - 4p
