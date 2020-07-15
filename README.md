@@ -3,7 +3,7 @@
 
 #### Tiago Oliveira 
 
-##### O que te motiva a não parar?
+##### O que te motiva a não desistir?
 
 - Fé
     - Javascript
@@ -12,7 +12,9 @@
 - Resiliência
     - Linux
 - Futebol
-    - Node.js 
+    - Html
 - Respeito
-    - C#
+    - Css
 - 4p
+    - C#
+- Música
